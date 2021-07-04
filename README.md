@@ -1,5 +1,5 @@
 # vue-router-lesson
-
+- jsx 没有兼容 router-link组件有问题
 ## Project setup
 ```
 yarn install

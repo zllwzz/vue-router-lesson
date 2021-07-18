@@ -1,18 +1,18 @@
-# vue-router-lesson
-- jsx 没有兼容 router-link组件有问题
+# vue3-router4
+
 ## Project setup
 ```
-yarn install
+npm install
 ```
 
 ### Compiles and hot-reloads for development
 ```
-yarn serve
+npm run serve
 ```
 
 ### Compiles and minifies for production
 ```
-yarn build
+npm run build
 ```
 
 ### Customize configuration
